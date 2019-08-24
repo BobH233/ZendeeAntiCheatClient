@@ -1,0 +1,10 @@
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\bin\Release\ZAntiCheatClient.exe.config
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\bin\Release\ZAntiCheatClient.exe
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\bin\Release\ZAntiCheatClient.pdb
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\obj\Release\ZAntiCheatClient.csprojAssemblyReference.cache
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\obj\Release\ZAntiCheatClient.Form1.resources
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\obj\Release\ZAntiCheatClient.Properties.Resources.resources
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\obj\Release\ZAntiCheatClient.csproj.GenerateResource.cache
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\obj\Release\ZAntiCheatClient.csproj.CoreCompileInputs.cache
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\obj\Release\ZAntiCheatClient.exe
+D:\Coding\ZAntiCheatClient\ZAntiCheatClient\obj\Release\ZAntiCheatClient.pdb
